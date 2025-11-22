@@ -25,4 +25,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseminodinc-collab&" alt="yaseminodinc-collab" /></p>
 
 
-![snake gif](https://github.com/yaseminodinc-collab/yaseminodinc-collab/blob/output/github-contribution-grid-snake.gif)
